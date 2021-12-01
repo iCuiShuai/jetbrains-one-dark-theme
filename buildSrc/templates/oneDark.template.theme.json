@@ -105,7 +105,8 @@
     "DefaultTabs": {
       "underlineColor": "accentColor",
       "inactiveUnderlineColor": "#4269b9",
-      "hoverBackground": "#323844"
+      "hoverBackground": "#323844",
+      "underlineHeight": 1
     },
 
     "DragAndDrop": {
